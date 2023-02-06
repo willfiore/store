@@ -1,0 +1,21 @@
+{
+  "name": "@willfiore/store",
+  "author": "Will Fiore",
+  "version": "1.0.0",
+  "description": "A simple store that implements the Svelte store contract.",
+  "keywords": [],
+  "license": "ISC",
+  "repository": "https://github.com/willfiore/store",
+  "main": "dist/willfiore-store.cjs.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.18.6",
+    "@preconstruct/cli": "^2.3.0",
+    "typescript": "^4.9.5"
+  }
+}
